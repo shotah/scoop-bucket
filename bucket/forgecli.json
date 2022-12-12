@@ -1,0 +1,14 @@
+{
+    "version": "0.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/shotah/forgecli/releases/download/v0.0.3/forgecli_0.0.3_windows_amd64.zip",
+            "bin": [
+                "forgecli.exe"
+            ],
+            "hash": "6cac0ff457726a11541b120a5d40d7967a723c4cb9534cf0666652354ca01d6f"
+        }
+    },
+    "license": "MIT",
+    "description": "Software to easily install minecraft mod clients and mods"
+}
