@@ -1,12 +1,12 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shotah/forgecli/releases/download/v1.0.2/forgecli_1.0.2_windows_amd64.zip",
+            "url": "https://github.com/shotah/forgecli/releases/download/v1.0.3/forgecli_1.0.3_windows_amd64.zip",
             "bin": [
                 "forgecli.exe"
             ],
-            "hash": "72e4bd32e625a8754f151b7fa5192343c8146528894558a66825af7f86a38923"
+            "hash": "f44763ff6dceb426c1ec3712d97120e13584d92999325680f07d19a3a9328869"
         }
     },
     "license": "MIT",
