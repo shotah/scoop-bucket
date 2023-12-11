@@ -1,19 +1,19 @@
 {
-    "version": "1.0.24",
+    "version": "1.0.25",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shotah/forgecli/releases/download/v1.0.24/forgecli_1.0.24_windows_amd64.zip",
+            "url": "https://github.com/shotah/forgecli/releases/download/v1.0.25/forgecli_1.0.25_windows_amd64.zip",
             "bin": [
                 "forgecli.exe"
             ],
-            "hash": "26ebcbf958adab175cb96dc523be2e635c301423bd8613f1faedb643d3d077c1"
+            "hash": "d79dac43cad1a74de8535619d73afcfb4aacfdb74e1bb3cad3558f75bee49b68"
         },
         "arm64": {
-            "url": "https://github.com/shotah/forgecli/releases/download/v1.0.24/forgecli_1.0.24_windows_arm64.zip",
+            "url": "https://github.com/shotah/forgecli/releases/download/v1.0.25/forgecli_1.0.25_windows_arm64.zip",
             "bin": [
                 "forgecli.exe"
             ],
-            "hash": "ec8c734cf2720036080ce61db4407495febb68e16c5ad36b6ffdcb2e859ac630"
+            "hash": "61e73c8ead1fc6cf2d62c1b00436881a3d30bb1a961277aec3a9b8ff48cea5c5"
         }
     },
     "license": "MIT",
